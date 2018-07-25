@@ -1,4 +1,4 @@
-package com.sqs.training.stepdefs;
+/* package com.sqs.training.stepdefs;
 
 //import cucumber.api.java.ObjectFactory;
 import cucumber.api.java.en.Given;
@@ -86,3 +86,4 @@ public class SoapUnitConversionSteps {
 
 
 }
+*/
