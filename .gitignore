@@ -4,4 +4,5 @@ lib
 target
 *.iml
 out
+SoapUnitConversionSteps.java
 /target
